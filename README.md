@@ -8,8 +8,9 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+_Hello_world_
 
 ## Members
 
-- _nobody has signed on yet_
+- _Mackey
+_
